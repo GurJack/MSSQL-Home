@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Конвертор в KnolageBase", "Конвертор в KnolageBase\Конвертор в KnolageBase.ssmssqlproj", "{0333B459-1F10-0F31-7246-C8D1B09C582D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0333B459-1F10-0F31-7246-C8D1B09C582D}.Default|Default.ActiveCfg = Default
+		{470649BC-6808-40A1-864C-889015E3CD92}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A212E664-25D3-4E8F-B120-738F0E2264F0}
+	EndGlobalSection
+EndGlobal

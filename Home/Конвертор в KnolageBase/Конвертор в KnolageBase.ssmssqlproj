@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Конвертор в KnolageBase">
+  <Items>
+    <LogicalFolder Name="Соединения" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(localdb)\mssqllocaldb:GURJACKDESKTOP\Евгений">
+          <Created>2025-11-02T11:29:14.8000702+03:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\mssqllocaldb</Server>
+          <UserName />
+          <Authentication>Проверка подлинности Windows</Authentication>
+          <InitialDB>LUBO</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>False</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>SQL Server Management Studio</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Запросы" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01 Create Reference.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01 Create Reference.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02 Create hierarchy.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02 Create hierarchy.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03 Create Cources.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03 Create Cources.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04 Create Lections.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04 Create Lections.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06 Поиск дубликатов.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06 Поиск дубликатов.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07 Пропавшие файлы.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07 Пропавшие файлы.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Лекции. Создание папок.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Лекции. Создание папок.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Разное" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
